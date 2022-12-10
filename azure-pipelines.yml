@@ -18,7 +18,9 @@ variables:
 steps:
 - task: NodeTool@0
   inputs:
-    versionSource: 'fromFile'
+    versionSource: 'spec'
+    versionSpec: '10.x'
+    checkLatest: true
   displayName: 'Install Node.js'
  
 - script: 
