@@ -12,7 +12,7 @@ variables:
   directory: webapp
   stage: development
   serviceConnection: AzServiceConnectionPOC
-  appServiceName: webapp12-01
+  appServiceName: mydemoapp010
 
 steps:
 - task: NodeTool@0
