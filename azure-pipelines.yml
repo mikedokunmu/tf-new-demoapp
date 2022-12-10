@@ -11,7 +11,7 @@ pool:
 variables:
   directory: webapp
   stage: development
-  serviceConnection: AzServiceConnectionPOC
+  serviceConnection: cloudops-sp-sbx-rg-0011 to SBX rg 001
   appServiceName: mydemoapp010
 
 steps:
