@@ -1,0 +1,29 @@
+-Tenant c8ecc778-3803-4184-9438-0e4a60a5edeb
+
+SP Secret: 1.28Q~FJJu0BDKh3ge215Cdb3Kg~ZQANU8x5zagR
+
+---Summary of Initial Assets Created--
+***Subscription Details***
+	Subscription ID: 66559717-deb7-4cac-a99f-e2d2203c4987
+
+***Resource Group(RG) Details***
+	RG Name: rg-kcns-web-poc-eastus-010
+	RG Name Location: East US
+
+***Service Principal (SP) Details***
+	SP Name: sp-kcns-web-poc-eastus-010
+	SP AppID: c4da9196-7e43-4f24-b4c3-e253bacca187
+	SP ObjectID: e0c2578e-fc21-4a01-8714-6cdb1ca01f0a
+
+***Storage Account (SA) Details***
+	SA Name: stgnsweb010
+	SA Container Name: development
+
+***Key vault (KV) Details***
+	KV Name: kv-kcns-web-010
+	AppID KV Name: kv-app-id
+	Secret KV Name: kv-secret
+	ObjectID KV Name: kv-obj-id
+	GitPat KV Name: kv-git-pat
+	StorageKey KV Name: kv-storage-key
+
