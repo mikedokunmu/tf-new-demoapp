@@ -59,3 +59,4 @@ steps:
     appName: '$(appServiceName)'
     appType: 'webApp'
     package: '$(System.ArtifactsDirectory)/$(Build.BuildId).zip'
+    deploymentMethod: 'auto'
